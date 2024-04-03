@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "blazor-simple-webapp/1.0.0": {
+        "runtime": {
+          "blazor-simple-webapp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "blazor-simple-webapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

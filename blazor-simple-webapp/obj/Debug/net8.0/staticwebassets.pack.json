@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\code\\dot-net-webapp\\blazor-simple-webapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\blazor-simple-webapp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\blazor-simple-webapp.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\code\\dot-net-webapp\\blazor-simple-webapp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\code\\dot-net-webapp\\blazor-simple-webapp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\code\\dot-net-webapp\\blazor-simple-webapp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\code\\dot-net-webapp\\blazor-simple-webapp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.blazor-simple-webapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.blazor-simple-webapp.props",
+      "PackagePath": "build\\blazor-simple-webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.blazor-simple-webapp.props",
+      "PackagePath": "buildMultiTargeting\\blazor-simple-webapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.blazor-simple-webapp.props",
+      "PackagePath": "buildTransitive\\blazor-simple-webapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
